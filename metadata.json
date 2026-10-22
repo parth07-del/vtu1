@@ -1,0 +1,6 @@
+{
+  "name": "GreenQ — Hybrid Quantum Renewable Energy Scheduler",
+  "description": "Optimize Energy. Reduce Waste. Build a Greener Future. Classical & QAOA optimization for battery storage and renewable demand scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
